@@ -1,2 +1,2 @@
 # CodSoft
-Projects developed during my CodSoft Internship, showcasing skills in HTML, CSS, JavaScript, and other web development technologies. Includes practical applications and mini-projects focused on dynamic and responsive design.
+Projects developed during Level 1 of my CodSoft Internship, showcasing skills in HTML, CSS, JavaScript, and web development. This repository contains practical applications and mini-projects focused on dynamic and responsive design.
